@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Nhom7\Nhom7\bin\Debug\Nhom7.exe.config
+C:\Users\Administrator\source\repos\Nhom7\Nhom7\bin\Debug\Nhom7.exe
+C:\Users\Administrator\source\repos\Nhom7\Nhom7\bin\Debug\Nhom7.pdb
+C:\Users\Administrator\source\repos\Nhom7\Nhom7\obj\Debug\Nhom7.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Nhom7\Nhom7\obj\Debug\Nhom7.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Nhom7\Nhom7\obj\Debug\Nhom7.exe
+C:\Users\Administrator\source\repos\Nhom7\Nhom7\obj\Debug\Nhom7.pdb

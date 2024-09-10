@@ -1,0 +1,7 @@
+C:\Users\tuan\source\repos\NguyenHoangTuan_64132832\NguyenHoangTuan_64132832\bin\Debug\NguyenHoangTuan_64132832.exe.config
+C:\Users\tuan\source\repos\NguyenHoangTuan_64132832\NguyenHoangTuan_64132832\bin\Debug\NguyenHoangTuan_64132832.exe
+C:\Users\tuan\source\repos\NguyenHoangTuan_64132832\NguyenHoangTuan_64132832\bin\Debug\NguyenHoangTuan_64132832.pdb
+C:\Users\tuan\source\repos\NguyenHoangTuan_64132832\NguyenHoangTuan_64132832\obj\Debug\NguyenHoangTuan_64132832.csproj.AssemblyReference.cache
+C:\Users\tuan\source\repos\NguyenHoangTuan_64132832\NguyenHoangTuan_64132832\obj\Debug\NguyenHoangTuan_64132832.csproj.CoreCompileInputs.cache
+C:\Users\tuan\source\repos\NguyenHoangTuan_64132832\NguyenHoangTuan_64132832\obj\Debug\NguyenHoangTuan_64132832.exe
+C:\Users\tuan\source\repos\NguyenHoangTuan_64132832\NguyenHoangTuan_64132832\obj\Debug\NguyenHoangTuan_64132832.pdb

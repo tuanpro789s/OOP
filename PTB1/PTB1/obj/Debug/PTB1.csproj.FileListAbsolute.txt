@@ -1,0 +1,20 @@
+D:\ALL CODE\C#\LAB\PTB1\bin\Debug\PTB1.exe.config
+D:\ALL CODE\C#\LAB\PTB1\bin\Debug\PTB1.exe
+D:\ALL CODE\C#\LAB\PTB1\bin\Debug\PTB1.pdb
+D:\ALL CODE\C#\LAB\PTB1\obj\Debug\PTB1.csproj.AssemblyReference.cache
+D:\ALL CODE\C#\LAB\PTB1\obj\Debug\PTB1.Form1.resources
+D:\ALL CODE\C#\LAB\PTB1\obj\Debug\PTB1.Properties.Resources.resources
+D:\ALL CODE\C#\LAB\PTB1\obj\Debug\PTB1.csproj.GenerateResource.cache
+D:\ALL CODE\C#\LAB\PTB1\obj\Debug\PTB1.csproj.CoreCompileInputs.cache
+D:\ALL CODE\C#\LAB\PTB1\obj\Debug\PTB1.exe
+D:\ALL CODE\C#\LAB\PTB1\obj\Debug\PTB1.pdb
+C:\Users\tuan\Desktop\PTB1\PTB1\bin\Debug\PTB1.exe.config
+C:\Users\tuan\Desktop\PTB1\PTB1\bin\Debug\PTB1.exe
+C:\Users\tuan\Desktop\PTB1\PTB1\bin\Debug\PTB1.pdb
+C:\Users\tuan\Desktop\PTB1\PTB1\obj\Debug\PTB1.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\PTB1\PTB1\obj\Debug\PTB1.Form1.resources
+C:\Users\tuan\Desktop\PTB1\PTB1\obj\Debug\PTB1.Properties.Resources.resources
+C:\Users\tuan\Desktop\PTB1\PTB1\obj\Debug\PTB1.csproj.GenerateResource.cache
+C:\Users\tuan\Desktop\PTB1\PTB1\obj\Debug\PTB1.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\PTB1\PTB1\obj\Debug\PTB1.exe
+C:\Users\tuan\Desktop\PTB1\PTB1\obj\Debug\PTB1.pdb

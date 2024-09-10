@@ -1,0 +1,11 @@
+D:\ALL CODE\C#\BaiTapTrenLop\QLCB\bin\Debug\QLCB.exe.config
+D:\ALL CODE\C#\BaiTapTrenLop\QLCB\bin\Debug\QLCB.exe
+D:\ALL CODE\C#\BaiTapTrenLop\QLCB\bin\Debug\QLCB.pdb
+D:\ALL CODE\C#\BaiTapTrenLop\QLCB\obj\Debug\QLCB.csproj.AssemblyReference.cache
+D:\ALL CODE\C#\BaiTapTrenLop\QLCB\obj\Debug\QLCB.csproj.CoreCompileInputs.cache
+D:\ALL CODE\C#\BaiTapTrenLop\QLCB\obj\Debug\QLCB.exe
+D:\ALL CODE\C#\BaiTapTrenLop\QLCB\obj\Debug\QLCB.pdb
+C:\Users\tuan\Desktop\baitap20\3\bai20.3\obj\Debug\QLCB.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\baitap20\3\bai20.3\obj\Debug\QLCB.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\baitap20\3\bai20.3\obj\Debug\QLCB.exe
+C:\Users\tuan\Desktop\baitap20\3\bai20.3\obj\Debug\QLCB.pdb

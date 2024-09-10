@@ -1,0 +1,14 @@
+D:\C++\LAB4\LAB4\bin\Debug\LAB4.exe.config
+D:\C++\LAB4\LAB4\bin\Debug\LAB4.exe
+D:\C++\LAB4\LAB4\bin\Debug\LAB4.pdb
+D:\C++\LAB4\LAB4\obj\Debug\LAB4.csproj.AssemblyReference.cache
+D:\C++\LAB4\LAB4\obj\Debug\LAB4.csproj.CoreCompileInputs.cache
+D:\C++\LAB4\LAB4\obj\Debug\LAB4.exe
+D:\C++\LAB4\LAB4\obj\Debug\LAB4.pdb
+C:\Users\tuan\Desktop\LAB4\LAB4\LAB4\bin\Debug\LAB4.exe.config
+C:\Users\tuan\Desktop\LAB4\LAB4\LAB4\bin\Debug\LAB4.exe
+C:\Users\tuan\Desktop\LAB4\LAB4\LAB4\bin\Debug\LAB4.pdb
+C:\Users\tuan\Desktop\LAB4\LAB4\LAB4\obj\Debug\LAB4.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\LAB4\LAB4\LAB4\obj\Debug\LAB4.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\LAB4\LAB4\LAB4\obj\Debug\LAB4.exe
+C:\Users\tuan\Desktop\LAB4\LAB4\LAB4\obj\Debug\LAB4.pdb
